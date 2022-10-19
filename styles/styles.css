@@ -1,0 +1,28 @@
+.equation-wrapper {
+  background-color: beige;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.equation-wrapper .eq-wrapper input {
+  width: 50px;
+  font-size: medium;
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.equation-wrapper #error-wrapper {
+  color: #d05c5c;
+  font-weight: 400;
+  margin-top: 15px;
+  font-style: italic;
+  display: none;
+}
+
+.equation-wrapper #solution-wrapper {
+  color: #3b3939;
+  font-weight: 400;
+  margin-top: 15px;
+  font-style: italic;
+  display: none;
+}
